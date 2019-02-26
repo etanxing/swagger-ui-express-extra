@@ -1,6 +1,6 @@
 {
-  "name": "swagger-ui-express",
-  "version": "4.0.2",
+  "name": "swagger-ui-express-extra",
+  "version": "1.0.1",
   "description": "Swagger UI Express",
   "main": "./lib/index.js",
   "files": [
@@ -30,21 +30,10 @@
     "mocha": "2.2.5",
     "phantom": "2.1.21"
   },
-  "author": {
-    "name": "Stephen Scott",
-    "email": "scottie1984@gmail.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:scottie1984/swagger-ui-express.git"
-  },
+  "author": "",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "bugs": {
-    "url": "https://github.com/scottie1984/swagger-ui-express/issues"
-  },
-  "homepage": "https://github.com/scottie1984/swagger-ui-express",
   "dependencies": {
-    "swagger-ui-dist": "^3.18.1"
+    "swagger-ui-dist-extra": "^1.0.0"
   }
 }
